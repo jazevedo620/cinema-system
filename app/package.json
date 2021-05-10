@@ -14,7 +14,7 @@
     "credit-card-type": "^8.3.0",
     "eslint-plugin-babel": "^5.3.0",
     "jwt-decode": "^2.2.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "object-hash": "^2.0.0",
     "payment-icons": "^1.2.1",
     "rc-progress": "^2.5.2",
